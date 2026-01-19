@@ -9,4 +9,4 @@ The RSU computes vehicle-to-vehicle distances and generates safety warnings.
 - Presentation: docs/Car2X_Presentation.pdf
 
 ## Demo Video
-See: media/demo_video_link.txt
+See: media/demo_video_.txt
