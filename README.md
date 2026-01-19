@@ -80,27 +80,6 @@ A complete working demonstration of the system is available here:
 
 ---
 
-## Project Documents
-- 📄 **Project Report:** `docs/Car2X_Report.pdf`
-- 📊 **Presentation Slides:** `docs/Car2X_Presentation.pdf`
-
----
-
-## Individual Contributions
-
-### Hemanth Katukuri
-- Communication logic and UDP networking
-- Multi-vehicle handling at the RSU
-- Mobile application development
-- Logging and performance evaluation
-
-### Sai Charan Kandepi
-- GPS sensing and data acquisition
-- CAM message structure and protocol design
-- Distance calculation and warning logic validation
-- UI improvements and testing
-
----
 
 ## Technologies Used
 - Android (Kotlin)
